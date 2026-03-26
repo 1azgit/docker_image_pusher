@@ -7,7 +7,7 @@ xhofe/alist:latest
 #视频下载工具vidbee
 ghcr.io/nexmoe/vidbee-api:latest
 ghcr.io/nexmoe/vidbee-web:latest
-
+#ai
 eceasy/cli-proxy-api:latest
 metacubex/mihomo:latest
 openlistteam/openlist:latest
